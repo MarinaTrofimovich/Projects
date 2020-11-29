@@ -1,2 +1,2 @@
 # Bank customer churn prediction
-Format: ![Alt Text](picture.jpeg)
+<img src="picture.jpeg" width="500" height="300"/>
