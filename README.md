@@ -1,2 +1,2 @@
 # Bank customer churn prediction
-<img src="picture.jpeg" width="500" height="300"/>
+<img align="center" width="500" height="300" src="picture.jpeg" />
